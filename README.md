@@ -1,4 +1,4 @@
-# product-catalog_pricing-engine-catalog
+Product catalog pricing & Engine catalog
 The Product Catalog & Pricing Engine is a system designed to manage product information and dynamically handle pricing strategies in an efficient and scalable way. This project focuses on organizing product data while enabling flexible pricing mechanisms based on various conditions such as demand, discounts, and customer segments.
 
 The Product Catalog component stores and manages details of products, including product ID, name, category, description, and base price. It ensures structured data management, making it easy to search, filter, and update product information.
